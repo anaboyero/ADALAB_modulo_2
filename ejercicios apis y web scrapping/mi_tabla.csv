@@ -1,0 +1,291 @@
+,nombre,apellido,equipo,id
+0,Alex,Abrines,FC Barcelona,1
+1,Jaylen,Adams,St. Bonaventure,2
+2,Steven,Adams,Pittsburgh,3
+3,Bam,Adebayo,Kentucky,4
+4,DeVaughn,Akoon-Purcell,Illinois State,5
+5,LaMarcus,Aldridge,University of Texas at Austin,6
+6,Rawle,Alkins,Arizona,7
+7,Grayson,Allen,Duke,8
+8,Jarrett,Allen,Texas,9
+9,Al-Farouq,Aminu,Wake Forest,10
+10,Justin,Anderson,Virginia,11
+11,Kyle,Anderson,UCLA,12
+12,Ryan,Anderson,California,13
+13,Ike,Anigbogu,UCLA,14
+14,Giannis,Antetokounmpo,Filathlitikos,15
+15,Kostas,Antetokounmpo,Dayton,16
+16,Carmelo,Anthony,Syracuse,17
+17,OG,Anunoby,Indiana,18
+18,Ryan,Arcidiacono,Villanova,19
+19,Trevor,Ariza,UCLA,20
+20,D.J.,Augustin,Texas,21
+21,Deandre,Ayton,Arizona,22
+22,Dwayne,Bacon,Florida State,23
+23,Marvin,Bagley III,Duke,24
+24,Ron,Baker,Wichita State,25
+25,Wade,Baldwin IV,Vanderbilt,26
+26,Lonzo,Ball,UCLA,27
+27,Mo,Bamba,Texas,28
+28,J.J.,Barea,Northeastern,29
+29,Harrison,Barnes,North Carolina,30
+30,Will,Barton,Memphis,31
+31,Keita,Bates-Diop,Ohio State,32
+32,Nicolas,Batum,Le Mans,33
+33,Jerryd,Bayless,Arizona,34
+34,Aron,Baynes,Washington State,35
+35,Kent,Bazemore,Old Dominion,36
+36,Bradley,Beal,Florida,37
+37,Malik,Beasley,Florida State,38
+38,Michael,Beasley,Kansas State,39
+39,Marco,Belinelli,Fortitudo Bologna,40
+40,Jordan,Bell,Oregon,41
+41,DeAndre',Bembry,St. Joseph's (PA),42
+42,Dragan,Bender,Maccabi Tel Aviv,43
+43,Davis,Bertans,Baskonia,44
+44,Patrick,Beverley,Arkansas,45
+45,Khem,Birch,UNLV,46
+46,Jabari,Bird,California,47
+47,Bismack,Biyombo,Baloncesto Fuenlabrada,48
+48,Nemanja,Bjelica,Fenerbahce,49
+49,Antonio,Blakeney,Louisiana State,50
+50,Eric,Bledsoe,Kentucky,51
+51,Trevon,Bluiett,Xavier,52
+52,Bogdan,Bogdanovic,Fenerbahce,53
+53,Bojan,Bogdanovic,Fenerbahce,54
+54,Jonah,Bolden,UCLA,55
+55,Isaac,Bonga,Skyliners Frankfurt,56
+56,Devin,Booker,Kentucky,57
+57,Chris,Boucher,Oregon,58
+58,Avery,Bradley,University of Texas at Austin,59
+59,Tony,Bradley,Texas Legends,60
+60,Mikal,Bridges,Villanova,61
+61,Miles,Bridges,Michigan State,62
+62,Isaiah,Briscoe,Kentucky,63
+63,Ryan,Broekhoff,Valparaiso,64
+64,Malcolm,Brogdon,Virginia,65
+65,Dillon,Brooks,Oregon,66
+66,MarShon,Brooks,Providence,67
+67,Troy,Brown Jr.,Oregon,68
+68,Bruce,Brown,Miami,69
+69,Jaylen,Brown,California,70
+70,Lorenzo,Brown,North Carolina State,71
+71,Sterling,Brown,Southern Methodist,72
+72,Jalen,Brunson,Villanova,73
+73,Thomas,Bryant,Indiana,74
+74,Reggie,Bullock,North Carolina,75
+75,Trey,Burke,Michigan,76
+76,Alec,Burks,Colorado,77
+77,Deonte,Burton,Iowa State,78
+78,Jimmy,Butler,Marquette,79
+79,Jose,Calderon,Tau Ceramica,80
+80,Kentavious,Caldwell-Pope,Georgia,81
+81,Isaiah,Canaan,Murray State,82
+82,Clint,Capela,Elan Chalon,83
+83,DeMarre,Carroll,Missouri,84
+84,Wendell,Carter Jr.,Duke,85
+85,Michael,Carter-Williams,Syracuse,86
+86,Jevon,Carter,West Virginia,87
+87,Vince,Carter,North Carolina,88
+88,Alex,Caruso,Texas A&M,89
+89,Omri,Casspi,Maccabi Tel Aviv,90
+90,Willie,Cauley-Stein,Kentucky,91
+91,Troy,Caupain,Cincinnati,92
+92,Tyler,Cavanaugh,George Washington,93
+93,Tyson,Chandler,Dominguez HS (CA),94
+94,Wilson,Chandler,DePaul,95
+95,Joe,Chealey,College of Charleston,96
+96,Marquese,Chriss,Washington,97
+97,Gary,Clark,Cincinnati,98
+98,Ian,Clark,Belmont,99
+99,Jordan,Clarkson,Missouri,100
+100,John,Collins,Wake Forest,101
+101,Zach,Collins,Gonzaga,102
+102,Darren,Collison,UCLA,103
+103,Mike,Conley,Ohio State,104
+104,Pat,Connaughton,Notre Dame,105
+105,Quinn,Cook,Duke,106
+106,DeMarcus,Cousins,Kentucky,107
+107,Robert,Covington,Tennessee State,108
+108,Allen,Crabbe,California,109
+109,Torrey,Craig,South Carolina Upstate,110
+110,Jamal,Crawford,Michigan,111
+111,Jae,Crowder,Marquette,112
+112,Dante,Cunningham,Villanova,113
+113,John,Collins,Wake Forest,101
+114,Zach,Collins,Gonzaga,102
+115,Darren,Collison,UCLA,103
+116,Mike,Conley,Ohio State,104
+117,Pat,Connaughton,Notre Dame,105
+118,Quinn,Cook,Duke,106
+119,DeMarcus,Cousins,Kentucky,107
+120,Robert,Covington,Tennessee State,108
+121,Allen,Crabbe,California,109
+122,Torrey,Craig,South Carolina Upstate,110
+123,Jamal,Crawford,Michigan,111
+124,Jae,Crowder,Marquette,112
+125,Dante,Cunningham,Villanova,113
+126,Seth,Curry,Duke,114
+127,Stephen,Curry,Davidson,115
+128,Troy,Daniels,Va Commonwealth,116
+129,Anthony,Davis,Kentucky,117
+130,Ed,Davis,North Carolina,118
+131,Tyler,Davis,Texas A&M,119
+132,John,Collins,Wake Forest,101
+133,Zach,Collins,Gonzaga,102
+134,Darren,Collison,UCLA,103
+135,Mike,Conley,Ohio State,104
+136,Pat,Connaughton,Notre Dame,105
+137,Quinn,Cook,Duke,106
+138,DeMarcus,Cousins,Kentucky,107
+139,Robert,Covington,Tennessee State,108
+140,Allen,Crabbe,California,109
+141,Torrey,Craig,South Carolina Upstate,110
+142,Jamal,Crawford,Michigan,111
+143,Jae,Crowder,Marquette,112
+144,Dante,Cunningham,Villanova,113
+145,Seth,Curry,Duke,114
+146,John,Collins,Wake Forest,101
+147,Zach,Collins,Gonzaga,102
+148,Darren,Collison,UCLA,103
+149,Mike,Conley,Ohio State,104
+150,Pat,Connaughton,Notre Dame,105
+151,Quinn,Cook,Duke,106
+152,DeMarcus,Cousins,Kentucky,107
+153,Robert,Covington,Tennessee State,108
+154,Allen,Crabbe,California,109
+155,Torrey,Craig,South Carolina Upstate,110
+156,Jamal,Crawford,Michigan,111
+157,Jae,Crowder,Marquette,112
+158,Dante,Cunningham,Villanova,113
+159,Seth,Curry,Duke,114
+160,Stephen,Curry,Davidson,115
+161,Troy,Daniels,Va Commonwealth,116
+162,Anthony,Davis,Kentucky,117
+163,Ed,Davis,North Carolina,118
+164,Tyler,Davis,Texas A&M,119
+165,Dewayne,Dedmon,USC,120
+166,Sam,Dekker,Wisconsin,121
+167,Angel,Delgado,Seton Hall,122
+168,Matthew,Dellavedova,Saint Mary's,123
+169,Luol,Deng,Duke,124
+170,DeMar,DeRozan,Southern California,125
+171,Marcus,Derrickson,Georgetown,126
+172,Cheick,Diallo,Kansas,127
+173,Hamidou,Diallo,Kentucky,128
+174,Gorgui,Dieng,Louisville,129
+175,John,Collins,Wake Forest,101
+176,Zach,Collins,Gonzaga,102
+177,Darren,Collison,UCLA,103
+178,Mike,Conley,Ohio State,104
+179,Pat,Connaughton,Notre Dame,105
+180,Quinn,Cook,Duke,106
+181,DeMarcus,Cousins,Kentucky,107
+182,Robert,Covington,Tennessee State,108
+183,Allen,Crabbe,California,109
+184,Torrey,Craig,South Carolina Upstate,110
+185,Jamal,Crawford,Michigan,111
+186,Jae,Crowder,Marquette,112
+187,Dante,Cunningham,Villanova,113
+188,Seth,Curry,Duke,114
+189,Stephen,Curry,Davidson,115
+190,Troy,Daniels,Va Commonwealth,116
+191,Anthony,Davis,Kentucky,117
+192,Ed,Davis,North Carolina,118
+193,Tyler,Davis,Texas A&M,119
+194,Dewayne,Dedmon,USC,120
+195,Sam,Dekker,Wisconsin,121
+196,Angel,Delgado,Seton Hall,122
+197,Matthew,Dellavedova,Saint Mary's,123
+198,Luol,Deng,Duke,124
+199,DeMar,DeRozan,Southern California,125
+200,Marcus,Derrickson,Georgetown,126
+201,Cheick,Diallo,Kansas,127
+202,Hamidou,Diallo,Kentucky,128
+203,Gorgui,Dieng,Louisville,129
+204,John,Collins,Wake Forest,101
+205,Zach,Collins,Gonzaga,102
+206,Darren,Collison,UCLA,103
+207,Mike,Conley,Ohio State,104
+208,Pat,Connaughton,Notre Dame,105
+209,Quinn,Cook,Duke,106
+210,DeMarcus,Cousins,Kentucky,107
+211,Robert,Covington,Tennessee State,108
+212,Allen,Crabbe,California,109
+213,Torrey,Craig,South Carolina Upstate,110
+214,Jamal,Crawford,Michigan,111
+215,Jae,Crowder,Marquette,112
+216,Dante,Cunningham,Villanova,113
+217,Seth,Curry,Duke,114
+218,Stephen,Curry,Davidson,115
+219,Troy,Daniels,Va Commonwealth,116
+220,Anthony,Davis,Kentucky,117
+221,Ed,Davis,North Carolina,118
+222,Tyler,Davis,Texas A&M,119
+223,Dewayne,Dedmon,USC,120
+224,Sam,Dekker,Wisconsin,121
+225,Angel,Delgado,Seton Hall,122
+226,Matthew,Dellavedova,Saint Mary's,123
+227,Luol,Deng,Duke,124
+228,DeMar,DeRozan,Southern California,125
+229,Marcus,Derrickson,Georgetown,126
+230,Cheick,Diallo,Kansas,127
+231,Hamidou,Diallo,Kentucky,128
+232,Gorgui,Dieng,Louisville,129
+233,John,Collins,Wake Forest,101
+234,Zach,Collins,Gonzaga,102
+235,Darren,Collison,UCLA,103
+236,Mike,Conley,Ohio State,104
+237,Pat,Connaughton,Notre Dame,105
+238,Quinn,Cook,Duke,106
+239,DeMarcus,Cousins,Kentucky,107
+240,Robert,Covington,Tennessee State,108
+241,Allen,Crabbe,California,109
+242,Torrey,Craig,South Carolina Upstate,110
+243,Jamal,Crawford,Michigan,111
+244,Jae,Crowder,Marquette,112
+245,Dante,Cunningham,Villanova,113
+246,Seth,Curry,Duke,114
+247,Stephen,Curry,Davidson,115
+248,Troy,Daniels,Va Commonwealth,116
+249,Anthony,Davis,Kentucky,117
+250,Ed,Davis,North Carolina,118
+251,Tyler,Davis,Texas A&M,119
+252,Dewayne,Dedmon,USC,120
+253,Sam,Dekker,Wisconsin,121
+254,Angel,Delgado,Seton Hall,122
+255,Matthew,Dellavedova,Saint Mary's,123
+256,Luol,Deng,Duke,124
+257,DeMar,DeRozan,Southern California,125
+258,Marcus,Derrickson,Georgetown,126
+259,Cheick,Diallo,Kansas,127
+260,Hamidou,Diallo,Kentucky,128
+261,Gorgui,Dieng,Louisville,129
+262,John,Collins,Wake Forest,101
+263,Zach,Collins,Gonzaga,102
+264,John,Collins,Wake Forest,101
+265,Zach,Collins,Gonzaga,102
+266,Darren,Collison,UCLA,103
+267,Mike,Conley,Ohio State,104
+268,Pat,Connaughton,Notre Dame,105
+269,Quinn,Cook,Duke,106
+270,DeMarcus,Cousins,Kentucky,107
+271,Robert,Covington,Tennessee State,108
+272,Allen,Crabbe,California,109
+273,Torrey,Craig,South Carolina Upstate,110
+274,Jamal,Crawford,Michigan,111
+275,Jae,Crowder,Marquette,112
+276,Dante,Cunningham,Villanova,113
+277,Seth,Curry,Duke,114
+278,Stephen,Curry,Davidson,115
+279,Troy,Daniels,Va Commonwealth,116
+280,Anthony,Davis,Kentucky,117
+281,Ed,Davis,North Carolina,118
+282,Tyler,Davis,Texas A&M,119
+283,Dewayne,Dedmon,USC,120
+284,Sam,Dekker,Wisconsin,121
+285,Angel,Delgado,Seton Hall,122
+286,Matthew,Dellavedova,Saint Mary's,123
+287,Luol,Deng,Duke,124
+288,DeMar,DeRozan,Southern California,125
+289,Marcus,Derrickson,Georgetown,126
