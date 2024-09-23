@@ -326,9 +326,12 @@ WHERE actor_id NOT IN (
  La consulta debe mostrar el nombre y apellido de los actores y el número de películas en las que han actuado juntos
 */
 
+-- Dos opciones. La que hice sin CTE y después la opción con CTE, más legible. 
+
+
 -- Mediante joins entre las tablas de actores y la tabla film_Actor puedo juntar los nombres de los actores con sus ids.
 -- Importante: para no repetir datos, excluyo las filas de subconsultas donde aparece el actor que está en la consulta principal.
--- Después, agrupo los resultados por cada pareja de actores y contaré las películas en que coinciden
+-- Después, agrupo los resultados por cada pareja de actores y cuento las películas en que coinciden
 
 SELECT 
 		a.first_name AS nombre_actor, 
@@ -349,4 +352,31 @@ GROUP BY a.first_name,
 		a.last_name, 
 		asub.first_name, 
 		asub.last_name;
+        
+        
+        
+-- OPCIÓN CTE. A partir de un inner join con la tabla film_actor puedo consultar una tabla donde tengo 
+-- a los actores que han trabajado juntos unidos por la película en común. Después, solo hay que agrupar
+-- por pares de actores para contar las películas en que coinciden y llegar a sus nombres mediante
+-- unos join con la tabla actor.
+
+
+WITH actores_coincidentes AS  (
+
+SELECT
+		mfa.actor_id AS actor_id_mfa, 
+        sfa.actor_id AS actor_id_sfa, 
+        mfa.film_id 
+        FROM film_actor AS mfa
+        INNER JOIN film_actor AS sfa
+        ON mfa.film_id = sfa.film_id
+        WHERE mfa.actor_id < sfa.actor_id)
+
+SELECT actor_m.first_name AS nombre_actor1, actor_m.last_name AS apellido_actor1, actor_s.first_name AS nombre_actor2, actor_s.last_name AS apellido_actor2,  COUNT(*) AS peliculas_juntos
+FROM actores_coincidentes
+JOIN actor AS actor_m
+ON actor_id_mfa = actor_m.actor_id
+JOIN actor AS actor_s
+ON actor_id_sfa = actor_s.actor_id
+GROUP BY actor_id_mfa, actor_id_sfa;
 
